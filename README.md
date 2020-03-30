@@ -1,4 +1,4 @@
-![Logo](sprites/BBM_logo.png)
+![Logo](sprites/BBM.png)
 
 # Better-Blocks-Mod
 This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO)
