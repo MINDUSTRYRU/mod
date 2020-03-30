@@ -1,25 +1,25 @@
 {
 	"name": "Speedster",
 	"description": "The fastest and strongest mech",
-	"speed": 3.0,
-	"buildPower": 200.0,
+	"speed": 2.4,
+	"buildPower": 75.0,
 	"engineColor": "666495",
 	"flying": true,
-	"health": 30000,
+	"health": 5000,
 	"weaponOffsetX": 1,
 	"weaponOffsetY": 1,
 	"weapon": {
 		"name": "OOF",
 		"length": 3.5,
-		"reload": 6,
+		"reload": 5,
 		"alternate": true,
 		"bullet": {
 			"speed": 12,
-			"damage": 400,
+			"damage": 90,
 			"bulletWidth": 8,
 			"bulletHeight": 23,
-			"frontColor": #ffaf4a,
-			"backColor": #ffaf9a,
+			"frontColor": "ffaf4a",
+			"backColor": "ffaf9a",
 			"shootEffect": "shootBig"
 			"hitEffect": "hitFlameSmall",
 			"despawnEffect": "none"
