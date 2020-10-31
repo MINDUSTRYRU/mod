@@ -8,9 +8,9 @@
 	"reload": 60,
 	"speedBoost": 3,
 	"useTime": 800,
-//	"phase": "#720874", не работает
+	"phaseColor": "#720874",
 	"color": "#17C50B",
-//	"healPercent": 40, не работает
+	"healPercent": 40.0,
 	"consumes": {
 		"power": 7.5,
 		"items": {
