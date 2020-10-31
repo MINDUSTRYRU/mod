@@ -46,5 +46,5 @@
 		{ "item": "dark-steel", "amount": 2000 }
 	],
 	"category": "turret"
-	"research": "big-turret-2-mk2"
+	"research": "test-2"
 }
