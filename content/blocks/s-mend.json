@@ -6,9 +6,9 @@
 	"size": 3,
 	"range": 150,
 	"reload": 300
-	//"phase": "#720874", не рабочая функция
+	"phaseColor": "#720874", не рабочая функция
 	"color": "#17C50B",
-	"healPercent": 40,
+	"healPercent": 40.0,
 	"consumes": {
 		"power": 2.5
 		"items": {
