@@ -1,0 +1,25 @@
+{
+	"health": 2000,
+	"size": 4,
+	"reload": 150,
+	"range": 300,
+	"shootCone": 3,
+	"heatColor": "FF0000",
+	"ammoUseEffect": "none",
+	"rotatespeed": 4.5,
+	"recoil": 3,
+	"powerUse": 4.1,
+	"hasPower": true,
+	"targetAir": false,
+	"chargeEffects": 10,
+	"chargeMaxDelay": 35,
+	"chargeTime": 60,
+	"cooldown": 0.022,
+	"requirements": [
+		{ "item": "silicon", "amount": 480 },
+		{ "item": "titanium", "amount": 400 },
+		{ "item": "graphite", "amount": 300 }
+	],
+	"category": "turret",
+	"research": "lancer"
+}
