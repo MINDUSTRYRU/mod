@@ -16,7 +16,7 @@
 	"recieveEffect": "none"
 	"shake": 0,
 	"consumes": {
-		"power": 1.0
+		"power": 3.0
 	},
 	"size": 1,
 	"requirements": [
