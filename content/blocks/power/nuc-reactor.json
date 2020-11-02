@@ -20,7 +20,8 @@
 		{ "item": "enriched-uran", "amount": 40 },
 		{ "item": "dark-steel", "amount": 300 },
 		{ "item": "graphite", "amount": 800 },
-		{ "item": "metaglass", "amount": 100 }
+		{ "item": "metaglass", "amount": 100 },
+		{ "item": "silicon", "amount": 500 }
 	],
 	"category": "power",
 	"research": "impact-reactor",
