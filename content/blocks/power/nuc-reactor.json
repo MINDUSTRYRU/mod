@@ -1,5 +1,5 @@
 {
-	"name": "Nuclear Reactor",
+	"name": "NuclearReactor",
 	"description": "Reactor that makes alot of energy",
 	"itemCapacity": 10,
 	"size": 6,
