@@ -1,0 +1,31 @@
+{
+	"type": "FlyingUnit",
+	"name": "Rapid-T2",
+	"description": "Стреляет быстро.",
+	"flying": true,
+	"maxVelocity": 1.7,
+	"speed": 0.35,
+	"drag": 0.03,
+	"mass": 1.7,
+	"rotatespeed": 0.17,
+	"health": 220,
+	"range": 190,
+	"shootCone": 7,
+	"rotateWeapon": false,
+	"weapon": {
+		"name": "rapid-equip",
+		"alternate": true,
+		"reload": 6,
+		"ejectEffect": "shellEjectSmall",
+		"inaccuracy": 1,
+		"bullet": {
+			"type": "BasicBulletType",
+			"speed": 5.5,
+			"damage": 11,
+			"lifetime": 32,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"keepVelocity": false
+		}
+	}
+}
