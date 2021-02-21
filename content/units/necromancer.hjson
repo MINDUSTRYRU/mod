@@ -1,0 +1,117 @@
+speed: 1.0
+maxVelocity: 1.6
+flying: true
+health: 16500
+range: 400
+weaponOffsetY: 1
+engineOffsetY: -3
+engineSize: 2
+rotateSpeed: 1.8
+mass: 20
+targetAir: true
+rotateShooting: true
+rotateWeapon: true
+research: poly
+weapons:[
+{
+name: rocket
+  x: -31
+  y: 21
+  shootX: 1
+  shots: 4
+  reload: 30
+  ejectEffect: none
+  recoil: 1
+  rotate: true
+  mirror: false
+bullet: missileIncendiary
+},
+{
+name: rocket
+  x: 31
+  y: 21
+  shootX: 1
+  shots: 4
+  reload: 30
+  ejectEffect: none
+  recoil: 1
+  rotate: true
+  mirror: false
+bullet: missileIncendiary
+},
+{
+name: rocket
+  x: -31
+  y: -13
+  shootX: 1
+  shots: 4
+  reload: 30
+  ejectEffect: none
+  recoil: 1
+  rotate: true
+  mirror: false
+bullet: missileIncendiary
+},
+{
+name: rocket
+  x: 31
+  y: -13
+  shootX: 1
+  shots: 4
+  reload: 30
+  ejectEffect: none
+  recoil: 1
+  rotate: true
+  mirror: false
+bullet: missileIncendiary
+},
+{
+name: rocket
+  x: -21
+  y: 12
+  shootX: 1
+  shots: 4
+  reload: 25
+  ejectEffect: none
+  recoil: 1
+  rotate: true
+  mirror: false
+bullet: missileIncendiary
+},
+{
+name: rocket
+  x: 21
+  y: 12
+  shootX: 1
+  shots: 4
+  reload: 25
+  ejectEffect: none
+  recoil: 1
+  rotate: true
+  mirror: false
+bullet: missileIncendiary
+},
+{
+name: jd
+  x: 0
+  y: 17
+  shootX: 1
+  shots: 4
+  shootSound: laserblast
+  chargeSound: lasercharge
+  reload: 350
+  cooldownTime: 350
+  ejectEffect: none
+  recoil: 1
+  top: false
+  rotate: false
+  mirror: false
+bullet: {
+damage: 450
+type: LaserBulletType
+length: 350
+width: 46
+lifetime: 65
+}
+}
+]
