@@ -1,0 +1,22 @@
+type: UnitFactory
+size: 3
+buildVisibility: sandboxOnly
+consumes: {
+  power: 3
+}
+plans: [
+  {
+    unit: necromancer
+    requirements: [
+    ] 
+    time: 1
+  }
+]
+requirements: [
+		dark-steel/770
+		ruby/50
+		plut/25
+		quantum-ingot/8
+]
+category: units
+research: air-factory
