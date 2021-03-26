@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 1200
 itemCapacity: 80
-outputItem: diamond/2
+outputItem: diamond/10
 size: 3
 hasPower: true
 hasItems: true

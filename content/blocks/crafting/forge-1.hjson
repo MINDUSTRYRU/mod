@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 200
 itemCapacity: 20
-outputItem: tithorium/2
+outputItem: tithorium/5
 size: 3
 hasPower: true
 hasItems: true

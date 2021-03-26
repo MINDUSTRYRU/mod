@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 180
 itemCapacity: 15
-outputItem: comp-titanium/2
+outputItem: comp-titanium/5
 size: 2
 hasPower: true
 hasItems: true

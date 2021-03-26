@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 200
 itemCapacity: 4
-outputItem: uran/2
+outputItem: uran/3
 size: 2
 hasPower: true
 hasItems: true

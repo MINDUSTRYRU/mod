@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 200
 itemCapacity: 20
-outputItem: carbon/2
+outputItem: carbon/4
 size: 2
 hasPower: true
 hasItems: true

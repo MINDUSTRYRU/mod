@@ -2,7 +2,7 @@ type: GenericSmelter
 health: 1400
 liquidCapacity: 200
 itemCapacity: 60
-outputItem: quantum-ingot/2
+outputItem: quantum-ingot/4
 size: 3
 hasPower: true
 hasLiquids: true

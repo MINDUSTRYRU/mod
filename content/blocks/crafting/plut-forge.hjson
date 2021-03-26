@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 800
 itemCapacity: 10
-outputItem: plut/2
+outputItem: plut/4
 size: 3
 hasPower: true
 hasItems: true

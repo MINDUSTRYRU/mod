@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 6000
 itemCapacity: 5
-outputItem: infinitium/2
+outputItem: infinitium/3
 size: 8
 hasPower: true
 hasItems: true

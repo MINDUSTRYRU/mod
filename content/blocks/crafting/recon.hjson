@@ -1,7 +1,7 @@
 type: GenericSmelter
 health: 1500
 itemCapacity: 2
-outputItem: ruby/2
+outputItem: ruby/4
 size: 3
 hasPower: true
 hasItems: true
