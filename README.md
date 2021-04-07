@@ -6,7 +6,7 @@
   <summary>ENG Description</summary>
 Better-Blocks-Mod: This mod adds more blocks, materials and enemies (In development).
 
-The mod is developed specifically for mindustry.ru
+The mod is developed specifically for EasyPlay.su
 
 For all questions, write to Discord: https://ds.easyplay.su/
 ![Discord Shield](https://discordapp.com/api/guilds/658670734222163989/widget.png?style=shield)
