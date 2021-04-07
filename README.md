@@ -8,35 +8,35 @@ Better-Blocks-Mod: This mod adds more blocks, materials and enemies (In developm
 
 The mod is developed specifically for mindustry.ru
 
-For all questions, write to Discord: https://discord.mindustry.ru/
+For all questions, write to Discord: https://ds.easyplay.su/
 ![Discord Shield](https://discordapp.com/api/guilds/658670734222163989/widget.png?style=shield)
 
 Also, everyone can contribute to the development of the mod!
 This mod will operate on our server.
-The server connection addresses are on the website: https://mindustry.ru/
+The server connection addresses are on the website: https://ds.easyplay.su/
 </details>
 
 <details> 
   <summary>RUS Description</summary>
 Better-Blocks-Mod: Этот мод добавляет больше блоков, материалов и врагов(В разаработке).
 
-Мод разрабатывается специально для mindustry.ru
+Мод разрабатывается специально для EasyPlay.su
 
-По всем вопросам пишите в Discord: https://discord.mindustry.ru/
+По всем вопросам пишите в Discord: https://ds.easyplay.su/
 ![Discord Shield](https://discordapp.com/api/guilds/658670734222163989/widget.png?style=shield)
 
 Так же все желающие могут внести вклад в развитие мода!
 Этот мод будет действовать у нас на сервере.
-Адреса подключения к серверам находятся на сайте: https://mindustry.ru/
+Адреса подключения к серверам находятся на сайте: https://ds.easyplay.su/
 </details>
 
 
 # Developers
 
-- [MindustryRu](https://github.com/MindustryRu) (Head Developer)
+- [EasyPlaySu](https://github.com/EasyPlaySu) (Head Developer)
 - [MemFaceGo](https://github.com/MemFaceGo) (First Developer)
 
 
 # Discord Server Banner
 
-<a href="https://discord.mindustry.ru/"><img src="https://discordapp.com/api/guilds/658670734222163989/widget.png?style=banner4" alt="Discord Banner 4"/></a>
+<a href="https://ds.easyplay.su/"><img src="https://discordapp.com/api/guilds/658670734222163989/widget.png?style=banner4" alt="Discord Banner 4"/></a>
